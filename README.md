@@ -10,3 +10,5 @@ Diana Dayoun Lee
 Sam JiYoon Oh
 
 Benjamin Du
+
+James Lee
